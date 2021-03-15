@@ -4,7 +4,7 @@
 This is a built-in API that allows your control or widget to use built-in dialogs.
 
 ### Methods
-#### `alert(options, callback)` a 
+#### `alert(options, callback)` abc
 The alert method displays an alert popup with a specified message and an OK button. An alert popup is often used if you want to make sure information comes through to the user.
   * `options`: object
     * `title`: string (optional), by default 'Alert '
