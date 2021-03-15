@@ -158,7 +158,7 @@ Toast can be used to deliver a short simple message to user such as "Saved" or "
 > Minimal Example
 ```javascript
 buildfire.dialog.toast({
-    message: "Importing users..."
+    message: "Importing users... "
 })
 ```
 
