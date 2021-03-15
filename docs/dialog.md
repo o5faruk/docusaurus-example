@@ -7,7 +7,7 @@ This is a built-in API that allows your control or widget to use built-in dialog
 #### `alert(options, callback)` 
 The alert method displays an alert popup with a specified message and an OK button. An alert popup is often used if you want to make sure information comes through to the user.
   * `options`: object
-    * `title`: string (optional), by default 'Alert'
+    * `title`: string (optional), by default 'Alert '
     * `subtitle`: string (optional)
     * `message`: string
     * `isMessageHTML`: boolean (optional), specifies whether message should be rendered as [sanitized](https://github.com/BuildFire/sdk/wiki/How-to-use-Dialogs#notes) html instead of plaintext, by default false
