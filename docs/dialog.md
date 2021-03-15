@@ -1,3 +1,9 @@
+---
+id: dialog
+title: How to use Dialogs
+sidebar_label: How to use Dialogs
+---
+
 ### `buildfire.dialog`
 
 **Dialog** is used to show the dialogs in app and control panel. Whether you want to display an alert that needs to grab users attention, ask for a confirmation or perform a more complex operation inside a dialog window, `buildfire.dialog` has all of it covered.
