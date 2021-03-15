@@ -2,8 +2,8 @@
 module.exports = {
   title: 'Buildfire Plugin SDK',
   tagline: 'Comprehensive documentation to help you get started with Buildfire SDK',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://o5faruk.github.io',
+  baseUrl: '/docusaurus-example/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
